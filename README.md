@@ -6,7 +6,7 @@ An education company named X Education sells online courses to industry professi
 
 ## Steps Followed:-
 
-1.Importing the required libraries and the dataset.\n
+1.Importing the required libraries and the dataset./n
 2.Inspecting the DataFrame.
 3.Checking for missing values.
 4.Analyzing coloumns individually and handling missing values.
