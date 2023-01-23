@@ -6,23 +6,23 @@ An education company named X Education sells online courses to industry professi
 
 ## Steps Followed:-
 
-Importing the required libraries and the dataset
-Inspecting the DataFrame
-Checking for missing values
-Analyzing coloumns individually and handling missing values
-Univariate Analysis and outlier treatment
-Dropping redundant columns
-Converting some binary variables (Yes/No) to 0/1
-Grouping coloumn features
-Dummy creation
-Train - Test Split
-Feature Scaling
-Model Building
-Feature Selection Using RFE
-Plotting the ROC Curve
-Finding Optimal Cut-Off Points
-Precision and Recall
-Making Predictions on the Test Set
+1.Importing the required libraries and the dataset.\n
+2.Inspecting the DataFrame.
+3.Checking for missing values.
+4.Analyzing coloumns individually and handling missing values.
+5.Univariate Analysis and outlier treatment.
+6.Dropping redundant columns.
+7.Converting some binary variables (Yes/No) to 0/1.
+8.Grouping coloumn features.
+9.Dummy creation.
+10.Train - Test Split.
+11.Feature Scaling.
+12.Model Building.
+13.Feature Selection Using RFE.
+14.Plotting the ROC Curve.
+15.Finding Optimal Cut-Off Points.
+16.Precision and Recall.
+17.Making Predictions on the Test Set.
 
 
 
