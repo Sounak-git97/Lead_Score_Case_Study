@@ -9,20 +9,20 @@ An education company named X Education sells online courses to industry professi
 1.Importing the required libraries and the dataset.<br />
 2.Inspecting the DataFrame.<br />
 3.Checking for missing values.<br />
-4.Analyzing coloumns individually and handling missing values.
-5.Univariate Analysis and outlier treatment.
-6.Dropping redundant columns.
-7.Converting some binary variables (Yes/No) to 0/1.
-8.Grouping coloumn features.
-9.Dummy creation.
-10.Train - Test Split.
-11.Feature Scaling.
-12.Model Building.
-13.Feature Selection Using RFE.
-14.Plotting the ROC Curve.
-15.Finding Optimal Cut-Off Points.
-16.Precision and Recall.
-17.Making Predictions on the Test Set.
+4.Analyzing coloumns individually and handling missing values.<br />
+5.Univariate Analysis and outlier treatment.<br />
+6.Dropping redundant columns.<br />
+7.Converting some binary variables (Yes/No) to 0/1.<br />
+8.Grouping coloumn features.<br />
+9.Dummy creation.<br />
+10.Train - Test Split.<br />
+11.Feature Scaling.<br />
+12.Model Building.<br />
+13.Feature Selection Using RFE.<br />
+14.Plotting the ROC Curve.<br />
+15.Finding Optimal Cut-Off Points.<br />
+16.Precision and Recall.<br />
+17.Making Predictions on the Test Set.<br />
 
 
 
