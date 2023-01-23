@@ -24,5 +24,5 @@ Finding Optimal Cut-Off Points
 Precision and Recall
 Making Predictions on the Test Set
 
-## Details of files given
+
 
